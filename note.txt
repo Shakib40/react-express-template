@@ -4,7 +4,7 @@ react-router-dom
 in import filename - it should not be like ../../
 route should be protected based on role
 
-
+ 
 ###client:
 
 
@@ -30,7 +30,7 @@ npm install joi
 
 npm install eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-react --save-dev
 
-
+npx puppeteer browsers install chrome
 
 ###basic mysql command:
 
